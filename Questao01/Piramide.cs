@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Windows;
 
 namespace Questao01
 {
-    public  class Piramide
+
+    public class Piramide
     {
 
-        public int N { get; set; }
+        public int N { get; private set; }
 
 
 
@@ -17,10 +19,10 @@ namespace Questao01
             if (n < 1)
             {
 
- 
-                Console.WriteLine("O valor de N não pode ser menor que zero");
 
-            } 
+                Console.WriteLine("O valor de N não pode ser menor que zero");
+                Environment.Exit(0);
+            }
             else
             {
 
@@ -28,7 +30,7 @@ namespace Questao01
             }
 
 
-           
+
         }
 
 
@@ -51,7 +53,7 @@ namespace Questao01
 
 
                 }
-              
+
                 for (int contador = i - 1; contador >= 1; contador--)
                 {
 
@@ -69,9 +71,10 @@ namespace Questao01
 
 
         }
-
     }
 }
+
+
 
 
 

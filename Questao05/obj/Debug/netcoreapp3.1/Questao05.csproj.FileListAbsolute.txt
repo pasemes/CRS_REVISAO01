@@ -1,0 +1,14 @@
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.exe
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.deps.json
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.json
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.runtimeconfig.dev.json
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\bin\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.AssemblyReference.cache
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfoInputs.cache
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.AssemblyInfo.cs
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.csproj.CoreCompileInputs.cache
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.dll
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.pdb
+C:\Users\feihb\source\repos\RevisaoParte01\Questao05\obj\Debug\netcoreapp3.1\Questao05.genruntimeconfig.cache

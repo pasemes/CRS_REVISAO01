@@ -2,22 +2,27 @@
 
 namespace Questao01
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
 
 
-            //Exemplo colocando o valor de N = 9
-            Piramide piramide = new Piramide(10);
+            Console.Write("Coloque a quantidade de N: ");
+            var nPiramides = int.Parse(Console.ReadLine());
 
-            //desenhando a piramide
+
+            Piramide piramide = new Piramide(nPiramides);
+
+            Console.WriteLine();
+
+            Console.WriteLine("O desenho da sua pirâmide:");
+
+            Console.WriteLine();
+             
             piramide.Desenha();
 
-            //Exemplo colocando valor de N = 0
-            Piramide piramide20 = new Piramide(0);
 
-            
 
 
 
